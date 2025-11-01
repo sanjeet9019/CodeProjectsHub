@@ -1,6 +1,0 @@
-India is my country ,I love my country . we are doing python class \
-           today we have amit ,ashish ,hema ,venkat ,madhu in the class . \
-           Amit mobile is +91 995821763 ,ashish number +44 123234445, hema number is +1 342345556,madhu +92-56754556 \
-           and amit has email id as amit.python@gmail.com ,venkat has email id as venkat_python12@gmail.com \
-           Hema has email id as hema_python12@yahoo.co.uk \
-           amit salary is $1200, hema salary is $1400.55 ,venkat salary is $5500.453 

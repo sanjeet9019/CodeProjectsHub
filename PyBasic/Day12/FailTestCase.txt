@@ -1,3 +1,0 @@
-Test case number 1 - 4G Throughput test is fails  
-Test case number 2 - LTE Handover is fail 
-Test case number 3 - NR to LTE reselection is fail 

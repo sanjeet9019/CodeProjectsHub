@@ -1,9 +1,0 @@
-setup.py
-module1/__init__.py
-module1/test1.py
-module2/__init__.py
-module2/test2.py
-testpack.egg-info/PKG-INFO
-testpack.egg-info/SOURCES.txt
-testpack.egg-info/dependency_links.txt
-testpack.egg-info/top_level.txt

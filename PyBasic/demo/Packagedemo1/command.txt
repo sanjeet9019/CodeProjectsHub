@@ -1,6 +1,0 @@
-pip install packagename
-pip uninstall packagename
-pip list
-
-#Install package setup.py in local directory
-pip install .  
